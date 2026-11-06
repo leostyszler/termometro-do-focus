@@ -5,7 +5,7 @@
 Um agente que roda sozinho toda segunda-feira, lê o Relatório Focus do Banco Central, calcula o que mudou nas expectativas, pergunta ao Claude o que isso significa, **confere cada número antes de confiar nele** e manda o resultado por e-mail.
 
 **🔗 Artefato público:** https://claude.ai/artifact/DXTbJK26RawubzYJN1vHM3
-**🎬 Vídeo (2 min):** _a publicar_
+**🎬 Vídeo (1min56):** [`entrega/termometro_do_focus.mp4`](entrega/termometro_do_focus.mp4) — _link do YouTube/Drive a publicar_
 
 ## Equipe
 
